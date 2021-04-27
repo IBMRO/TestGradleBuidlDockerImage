@@ -1,0 +1,2 @@
+com/example/TestGradleBuidlDockerImage/TestGradleBuidlDockerImageApplication.java
+ com.example.TestGradleBuidlDockerImage.TestGradleBuidlDockerImageApplication
